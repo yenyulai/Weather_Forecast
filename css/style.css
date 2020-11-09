@@ -8,3 +8,12 @@
     width: 100%;
 }
 .navbar-brand {float:none;}
+
+.block{
+    height: 220px;
+    width: 200px;
+    margin: 5px;
+    background-color: dodgerblue;
+
+}
+
